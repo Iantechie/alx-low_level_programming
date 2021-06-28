@@ -2,7 +2,7 @@
 #include "holberton.h"
 /**
  * puts_half - function that prints half of a string
- * @str- value to be evaluated
+ * @*str: value to be evaluated
  * Return: not
  */
 void puts_half(char *str)
@@ -12,7 +12,7 @@ void puts_half(char *str)
 	int n;
 
 	while (*y != '\0')
-	{
+	{i
 		y++;
 		len++;
 	}
@@ -30,5 +30,3 @@ void puts_half(char *str)
 	}
 	_putchar('\n');
 }
-
-	
