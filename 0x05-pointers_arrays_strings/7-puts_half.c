@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "holberton"
+#include "holberton.h"
 /**
  * puts_half - function that prints half of a string
  * @str- value to be evaluated
