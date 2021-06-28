@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "holberton.h"
 /**
- *_strcpy: function that copies a str pointed to by src
+ *_strcpy - update value pairs
  * @dest: value to be evaluated
- * @str:value to be evaluated
+ * @str: value to be evaluated
  * Return: not
  */
 char *_strcpy(char *dest, char *src)
