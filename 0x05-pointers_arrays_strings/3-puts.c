@@ -5,7 +5,7 @@
  * @str: value to be evaluated
  * Return: not.
  */
-void _puts(char *s)
+void _puts(char *str)
 {
 	int l = 0;
 	
