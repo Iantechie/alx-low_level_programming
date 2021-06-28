@@ -2,9 +2,9 @@
 #include "holberton.h"
 /**
  *_strcpy - update value pairs
- * @dest: value to be evaluated
- * @str: value to be evaluated
- * Return: not
+ *@dest: value to be evaluated
+ *@str: value to be evaluated
+ *Return: not
  */
 char *_strcpy(char *dest, char *src)
 {
