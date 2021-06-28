@@ -2,8 +2,8 @@
 #include "holberton.h"
 /**
  * strcpy- function that copies a str pointed to by src
- * @dest- value to be evaluated
- * @str- value to be evaluated
+ * @dest: value to be evaluated
+ * @str:value to be evaluated
  * Return: not
  */
 char *_strcpy(char *dest, char *src)
